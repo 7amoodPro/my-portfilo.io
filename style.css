@@ -1,8 +1,11 @@
 *{
   margin: 0cm;
-  text-align: center;
 }
 .header{
+  background-color: aqua;
+}
 
+
+.footer{
   background-color: aqua;
 }
