@@ -3,9 +3,8 @@
 }
 .header{
   background-color: aqua;
+  text-align: center;
 }
-
-
-.footer{
-  background-color: aqua;
+.foot{
+  text-align: center;
 }
