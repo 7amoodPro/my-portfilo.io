@@ -1,11 +1,10 @@
 *{
   margin: 0cm;
 }
-.header{
+#header{
   background-color: aqua;
   text-align: center;
 }
-.foot{
+#foot{
   text-align: center;
 }
-/* #hi this my css file */
