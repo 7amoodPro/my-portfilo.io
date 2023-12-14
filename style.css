@@ -14,28 +14,100 @@ html{
 
 }
 
+/* #################################################### */
+                      /* header */
+      header{
+        
+        width: 100%;
+        position: fixed;
+        z-index: 999;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 1px 100px; 
+      }
+/* #################################################### */
 
-header{
+
+
+
+
+/* ################################################## */
+                        /* home */
+          #home{
   
-  background-color: #B6C4B6;
-  width: 100%;
-  position: fixed;
-  z-index: 999;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 1px 100px; 
-}
+            height:100vh;
+            width: 100vw;
+            font-size: 40px;
+          }
+          #maintxt
+          {
+          font-size: 60px;
+          }
 
-footer{
-  background-color: #B6C4B6;
-  height:50px ;
-  width: 100%;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 1px 100px; 
-}
-.spanfoot{
-color: aqua;
-}
+/* ##################################################### */
+
+
+
+/* ##################################################### */
+                          /* about me */
+
+                #abt {
+        
+                  width: 100%;
+                  height: auto;
+                }
+                #abttxt{
+                  font-size: 40px;
+                }
+/* ##################################################### */
+
+
+
+
+
+/* ##################################################### */
+                          /* my projects */
+
+                          #projects {
+                  
+                            width: 100%;
+                            height: auto;
+                          }
+                          #projtxt{
+                            font-size: 40px;
+                          }
+/* ##################################################### */
+
+
+
+/* ##################################################### */
+                          /* contact me */
+
+                          #con {
+                  
+                            width: 100%;
+                            height: auto;
+                          }
+                          #contxt{
+                            font-size: 40px;
+                          }
+/* ##################################################### */
+
+
+
+/* ##################################################### */
+                          /* footer */
+        footer{
+
+          height:50px ;
+          width: 100%;
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          padding: 1px 100px; 
+        }
+        .spanfoot{
+        color: aqua;
+        }
+/* ##################################################### */
